@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<datasiswa>
+	<siswa>
+		<nama>Mohammad Farid</nama>
+		<shortname>mrahmat</shortname>
+		<kelas> 1</kelas>
+	</siswa>
+	<siswa>
+		<nama>rahmat</nama>
+		<shortname>mrahmat</shortname>
+		<kelas> 1</kelas>
+	</siswa>
+	<siswa>
+		<nama>diandra</nama>
+		<shortname>mrahmat</shortname>
+		<kelas> 1</kelas>
+	</siswa>
+</datasiswa>
